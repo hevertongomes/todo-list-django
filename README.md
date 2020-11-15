@@ -20,4 +20,4 @@ $ python manage.py runserver
 
 ## Sobre o projeto
 
-Um intermediário usando Django 3. Utilizando o conceito de rotas e o padrão de templates juntamente com a autenticação do django auth. Este app o usuário entra e se cadastra, cria um usuário. A partir daí pode criar suas tarefas a serem feitas.
+Um projeto intermediário usando Django 3. Utilizando o conceito de rotas e o padrão de templates juntamente com a autenticação do django auth. Este app o usuário entra e se cadastra, cria um usuário. A partir daí pode criar suas tarefas a serem feitas.
